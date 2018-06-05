@@ -1,0 +1,63 @@
+マルエム松崎ソフトキャリーバッグのキャスター用アダプター
+--------------------------------------------------------
+
+   FEATHER WEIGHT ソフトキャリーバッグ (スーツケース) を修理するため、
+   キャスターを汎用品に交換するためのアダプター。
+   本体の型番は不明。車輪が本体から独立してねじ止めされているタイプ。
+
+3D プリント部
+-------------
+
+   使用ソフトウェア: FreeCAD 0.17.13522
+   STL 化したときのメッシュ化パラメータ
+   -  メッシュ作成オプション: 標準
+   -  サーフェス偏差: 0.02 mm
+   -  角度の偏差: 10 度
+
+   外形寸法: 80 * 50 * 11 mm
+   体積: およそ 22526 mm3
+
+   想定素材: PA12 (MJF)
+
+その他に必要な部品
+------------------
+
+   取り付けプレートのねじ穴ピッチが 36 mm * 28 mm のキャスター
+   (ハンマーキャスター 420G-R 38mm や iteck KFR-38 キャスター)
+   -  車輪直径 38 mm
+   -  取り付け穴ピッチ 36 mm * 28 mm
+   -  取り付け台座サイズ 46 mm * 38 mm
+
+   ねじ類
+   -  ねじ (M4 長さ 10 mm) 4 本 (キャスターとアダプター間)
+   -  ねじ (M4 長さ 15 mm) 2 本 (アダプターと本体間)
+      (原物の部品では、はめあい長さが 8-9 mm くらい。)
+   -  ナット 4 個
+   -  ワッシャー (外径 9 mm) 6 個
+
+Copyright and License
+---------------------
+
+   Copyright (c) 2018 KAMADA Ken'ichi.
+   All rights reserved.
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions
+   are met:
+   1. Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+   2. Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+
+   THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+   ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+   IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+   ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+   FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+   DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+   OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+   HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+   LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+   OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+   SUCH DAMAGE.
